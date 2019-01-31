@@ -1,11 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+       "type": "rentals",
+       "id": "grand-old-mansion"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
