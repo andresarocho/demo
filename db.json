@@ -1,5 +1,5 @@
 {
-	"rentals": [{
+	"data": [{
 		"type": "rentals",
 		"id": "grand-old-mansion",
 		"attributes": {
